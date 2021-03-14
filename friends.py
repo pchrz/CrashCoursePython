@@ -1,3 +1,4 @@
+#print items from a list
 
 friends = ['Taylor', 'Alex', 'Pat', 'Eli']
 for friend in friends:
