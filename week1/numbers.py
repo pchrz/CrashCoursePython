@@ -4,9 +4,9 @@ print(4+5)
 
 print(9*7)
 
-print(-1/4) 
+print(-1.0/4.0) 
 
-print(1/3)
+print(1.0/3)
 
 print (((2050/5)-32)/9)
 
@@ -15,4 +15,4 @@ print(2**10)
 
 #My answers don't show decimal points like they do  in the course videos, why? 
 
-
+#ANS: add decimal points so that Python processes numbers as float rather than INT.
